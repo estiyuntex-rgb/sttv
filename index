@@ -67,3 +67,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#EXTINF:-1 , LIGASUPER 1
+http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34327.ts
+#EXTINF:-1 , BRI LIGA SUPER
+http://vipketseyket.top:8080/live/VIP017921761312332102/f455784d27ea/34327.ts
+#EXTINF:-1 , INDOSIAR NEXT
+https://s.id/Shareext_liga1_m3u8
+
